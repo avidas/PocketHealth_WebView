@@ -1,4 +1,4 @@
 PocketHealth_WebView
 ====================
 
-View PocketHealth Heroku app in android app
+PocketHealth Heroku app in android webview
